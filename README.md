@@ -10,8 +10,7 @@ The projects requires NodeJS and npm to work. Instructions to install all other 
 ### Ganache
 
 1. Go to [Ganache homepage](https://truffleframework.com/ganache) and download. 
-2. If you are on Linux, you must have received an _.appimage_ file. Follow installation instructions available [here.](https://itsfoss.com/use-appimage-linux/)
-
+2. If you are on Linux, you must have received an _.appimage_ file. 
 ### IPFS
 
 1. Go to the [github page](https://github.com/ipfs/ipfs-desktop) of IPFS and install IPFS Desktop
@@ -65,7 +64,7 @@ The projects requires NodeJS and npm to work. Instructions to install all other 
   
 1. Open new Terminal and deploy contracts using `truffle migrate`
 2. Copy deployed contract address to src/app.js 
-![alt text](https://raw.githubusercontent.com/SuyashMore/SwasthyaChain/master/images/ganace-contracct.png)
+
 
 ```js
 // app/src/app.js  line number 11
